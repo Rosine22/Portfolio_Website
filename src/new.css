@@ -1,0 +1,39 @@
+.title{
+  color: rgb(216, 213, 213);
+  width: 3000px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  position: sticky;
+  margin-left: 500px;
+  padding: 20px;
+  font-size: 90px ;
+  z-index: 1;
+}
+body {
+  margin: 0;
+  padding: 40px;
+  background-color: #f4f4f4;
+  font-family: sans-serif;
+  color: #333;
+}
+input {
+  padding: 16px 16px;
+  width: 700px;
+  border-radius: 30px;
+  border: 1px solid #ccc; 
+  font-size: 16px;
+  display: block;
+  margin-bottom: 200px;
+  color: rgb(10, 1, 1);
+  margin-left: 200px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: block;
+  margin-bottom: 2200px;
+  color: black;
+  
+}
+
